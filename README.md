@@ -5,4 +5,4 @@
 ![app builder big commerce](https://github.com/tommand-line/tech-certifications/blob/b169122b4fff2ee05bdd047fc7327d4002557056/appbuilder.png)
 
 # SAP Emarsys Customer Experience Engagement
-![sap_emarsys](https://github.com/tommand-line/tech-certifications/blob/b169122b4fff2ee05bdd047fc7327d4002557056/sapemarsys)
+![sap_emarsys](https://github.com/tommand-line/tech-certifications/blob/b169122b4fff2ee05bdd047fc7327d4002557056/sapemarsys.png)
